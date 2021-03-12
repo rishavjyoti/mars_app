@@ -1,0 +1,6 @@
+back{
+    background-image: url(../assets/back.jpg);
+    object-fit: cover;
+    height: 100vh;
+    width: 100vw;
+}
